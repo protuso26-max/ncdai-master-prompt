@@ -1,2 +1,2 @@
 # ncdai-master-prompt
-Repository documenting the structured AI prompt framework (“prompt master”) used to guide AI-assisted analyses in the NCDAI study, shared to support transparency, reproducibility, and methodological clarity.
+Structured AI prompt framework used in the NCDAI study to support AI-assisted clinical decision support for hypertension and diabetes, including system-level context instructions and dynamic patient-data prompt construction aligned with evidence-based guidelines.
